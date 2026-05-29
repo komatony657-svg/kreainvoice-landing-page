@@ -151,13 +151,13 @@
       <span class="nav-wordmark">krea<span>invoice</span></span>
     </a>
     <div class="nav-links">
-      <a href="https://kreainvoice-landing.pages.dev#templates" class="nav-link">Templates</a>
-      <a href="https://kreainvoice-landing.pages.dev#features" class="nav-link">Features</a>
-      <a href="https://kreainvoice-landing.pages.dev#pricing" class="nav-link">Pricing</a>
-      <a href="https://kreainvoice-landing.pages.dev#faq" class="nav-link">FAQ</a>
-      <a href="https://kreainvoice-landing.pages.dev" class="nav-link">Home</a>
+      <a href="https://kreainvoice.com#templates" class="nav-link">Templates</a>
+      <a href="https://kreainvoice.com#features" class="nav-link">Features</a>
+      <a href="https://kreainvoice.com#pricing" class="nav-link">Pricing</a>
+      <a href="https://kreainvoice.com#faq" class="nav-link">FAQ</a>
+      <a href="https://kreainvoice.com" class="nav-link">Home</a>
       <a href="/blog" class="nav-link nav-link-active">Blog</a>
-      <a href="https://kreainvoice.pages.dev" target="_blank" class="nav-cta">Open app →</a>
+      <a href="https://app.kreainvoice.com" target="_blank" class="nav-cta">Open app →</a>
     </div>
   </div>
 </nav>
@@ -246,7 +246,7 @@
       <div class="cta-strip-text">Start sending better invoices today</div>
       <div class="cta-strip-sub">Free. No signup. First invoice in under 2 minutes.</div>
     </div>
-    <a href="https://kreainvoice.pages.dev" target="_blank" class="cta-strip-btn">Open Kreainvoice →</a>
+    <a href="https://app.kreainvoice.com" target="_blank" class="cta-strip-btn">Open Kreainvoice →</a>
   </div>
 
 </div>
@@ -258,10 +258,10 @@
       <span class="nav-wordmark" style="font-size:15px">krea<span>invoice</span></span>
     </a>
     <div class="footer-links">
-      <a href="https://kreainvoice.pages.dev" class="footer-link">Open app</a>
-      <a href="https://kreainvoice-landing.pages.dev#templates" class="footer-link">Templates</a>
-      <a href="https://kreainvoice-landing.pages.dev#pricing" class="footer-link">Pricing</a>
-      <a href="https://kreainvoice-landing.pages.dev" class="footer-link">Home</a>
+      <a href="https://app.kreainvoice.com" class="footer-link">Open app</a>
+      <a href="https://kreainvoice.com#templates" class="footer-link">Templates</a>
+      <a href="https://kreainvoice.com#pricing" class="footer-link">Pricing</a>
+      <a href="https://kreainvoice.com" class="footer-link">Home</a>
       <a href="/blog" class="footer-link">Blog</a>
       <a href="mailto:hello@kreainvoice.com" class="footer-link">Contact</a>
     </div>
